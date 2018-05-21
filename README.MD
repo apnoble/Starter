@@ -6,7 +6,7 @@ NPM must be installed.
 
 * git clone
 * cd to Journal
-* npm install webpack@4.01 --save-dev
+* npm install 
 
 npm run start
 
