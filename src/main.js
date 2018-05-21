@@ -1,8 +1,8 @@
 import './styles.css';
-import { journal } from './journal';
+import { starter } from './starter';
 
 $(document).ready(function() {
-  $('#journal-form').submit(function(event) {
+  $('#starter-form').submit(function(event) {
     event.preventDefault();
     var goal = $('#goal').val();
     var output = journal(goal);

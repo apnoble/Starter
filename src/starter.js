@@ -1,4 +1,4 @@
-export function journal(goal) {
+export function starter(goal) {
   var output = [];
   for (var i = 1; i <= goal; i++) {
     if (i % 15 === 0) {
