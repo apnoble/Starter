@@ -4,13 +4,16 @@ Setup instructions:
 
 NPM must be installed.
 
-git clone
-cd to Journal
-npm install webpack@4.01 --save-dev
+* git clone
+* cd to Journal
+* npm install webpack@4.01 --save-dev
 
 npm run start
 
 Project should work at this point.
+
+Change Starter to the title of your new project.
+
 
 other npm commands from the lesson:
 
