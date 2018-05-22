@@ -5,14 +5,16 @@ Setup instructions:
 NPM must be installed.
 
 * git clone
-* cd to Journal
-* npm install 
+* cd to Starter (or new project name root directory)
+* npm install
+
+* in webpack.config.js change name of Title from 'Starter' to your new project name
+* in package.json change "name": "Starter" to your new project name
+* change the name of the starter.js file and a few spots in the main.js file
+
 
 npm run start
 
-Project should work at this point.
-
-Change Starter to the title of your new project.
 
 
 other npm commands from the lesson:
