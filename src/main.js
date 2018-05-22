@@ -1,3 +1,4 @@
+import $ from 'jquery';
 import './styles.css';
 import { starter } from './starter.js';
 
