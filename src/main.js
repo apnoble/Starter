@@ -1,4 +1,5 @@
 import $ from 'jquery';
+import 'bootstrap';
 import './styles.css';
 import { starter } from './starter.js';
 
